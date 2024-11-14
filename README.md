@@ -21,14 +21,14 @@ Antes de empezar, necesitas tener instalados los siguientes programas:
 
 Clona este repositorio en tu máquina local:
 
-```bash
 git clone https://github.com/tu_usuario/DAM-BBDD-Object.git
 cd DAM-BBDD-Object
 
-### 2. Configurar y ejecutar PostgreSQL con Docker
+
+### 2. **Configurar y ejecutar PostgreSQL con Docker
 
 El archivo docker-compose.yml ya está configurado para levantar tanto el contenedor de PostgreSQL como PgAdmin.
-2.1 Levantar los contenedores de Docker
+]**2.1 Levantar los contenedores de Docker**
 
 Para iniciar los servicios de PostgreSQL y PgAdmin, ejecuta el siguiente comando en el directorio donde tienes el archivo docker-compose.yml:
 
