@@ -1,5 +1,4 @@
 # DAM-BBDD-Object
-# DAM-BBDD-Object
 
 Este proyecto muestra cómo crear y manipular una base de datos objeto-relacional utilizando **PostgreSQL** en **Docker** y **Java** para interactuar con la base de datos mediante JDBC.
 
