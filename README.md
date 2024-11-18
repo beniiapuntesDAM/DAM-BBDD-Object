@@ -58,7 +58,7 @@ docker-compose up -d
 ---
 
 ### 2. Base de Datos Orientada a Objetos (como una colección de juguetes)
-<img src="https://e7.pngegg.com/pngimages/18/88/png-clipart-children-toys-toy-child.png" alt="Descripción de la imagen" width="300"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTP46JUcCuy6FgFZSEOWT0vbjW4jcyN4p9CWTMaRjbRkVMw0dImkQenPXSDJ0eTnGxSo&usqp=CAU" alt="Descripción de la imagen" width="300"/>
 
 
 **Contexto**: Imagina que eres un coleccionista de juguetes muy detallista, y tienes juguetes de diferentes tipos. Algunos juguetes tienen múltiples partes móviles, otros pueden "interactuar" entre sí o tener características complejas, como luces y sonidos.
