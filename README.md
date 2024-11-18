@@ -43,7 +43,7 @@ docker-compose up -d
 ## Ejemplo Práctico: Cuándo Usar Cada Tipo de Base de Datos
 
 ### 1. Base de Datos Objeto-Relacional (como un almacén)
-<img src="[https://w7.pngwing.com/pngs/7/117/png-transparent-warehouse-box-warehouse-miscellaneous-building-warehouse.png](https://w7.pngwing.com/pngs/453/166/png-transparent-cloud-database-storage-data-transfer-download-file-transfer-upload-work-from-home-icon.png)" alt="Descripción de la imagen" width="300"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2271/2271068.png" alt="Descripción de la imagen" width="300"/>
 
 **Contexto**: Imagina que eres el gerente de un almacén grande que vende productos. En este almacén hay diferentes tipos de productos, como electrónicos, ropa y alimentos. Necesitas organizar toda esta información de manera que puedas buscar rápidamente productos, hacer cálculos de precios, encontrar inventario y mucho más.
 
@@ -58,7 +58,7 @@ docker-compose up -d
 ---
 
 ### 2. Base de Datos Orientada a Objetos (como una colección de juguetes)
-<img src="[https://w7.pngwing.com/pngs/727/239/png-transparent-toy-graphy-toy-background-child-photography-material.png](https://w7.pngwing.com/pngs/808/715/png-transparent-database-data-storage-computer-software-data-center-computer-hardware-storage-device-computer-network-computer-cloud-computing-thumbnail.png)" alt="Descripción de la imagen" width="300"/>
+<img src="https://static.vecteezy.com/system/resources/previews/020/043/127/non_2x/computation-of-big-data-center-information-processing-database-png.png" alt="Descripción de la imagen" width="300"/>
 
 
 **Contexto**: Imagina que eres un coleccionista de juguetes muy detallista, y tienes juguetes de diferentes tipos. Algunos juguetes tienen múltiples partes móviles, otros pueden "interactuar" entre sí o tener características complejas, como luces y sonidos.
