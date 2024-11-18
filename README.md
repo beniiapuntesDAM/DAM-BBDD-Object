@@ -1,5 +1,5 @@
 # DAM-BBDD-Object
-<img src="[images/imagen.jpg](https://static.vecteezy.com/system/resources/previews/029/345/981/non_2x/database-icon-data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png)" alt="Descripción de la imagen" width="300"/>
+<img src="https://static.vecteezy.com/system/resources/previews/029/345/981/non_2x/database-icon-data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png" alt="Descripción de la imagen" width="300"/>
 
 
 Este proyecto muestra cómo crear y manipular una base de datos objeto-relacional utilizando **PostgreSQL** en **Docker** y **Java** para interactuar con la base de datos mediante JDBC.
