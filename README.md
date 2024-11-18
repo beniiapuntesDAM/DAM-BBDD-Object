@@ -43,6 +43,7 @@ docker-compose up -d
 ## Ejemplo Práctico: Cuándo Usar Cada Tipo de Base de Datos
 
 ### 1. Base de Datos Objeto-Relacional (como un almacén)
+<img src="https://png.pngtree.com/png-vector/20210302/ourmid/pngtree-illustrated-isometric-warehouse-room-on-background-png-image_2999332.jpg" alt="Descripción de la imagen" width="300"/>
 
 **Contexto**: Imagina que eres el gerente de un almacén grande que vende productos. En este almacén hay diferentes tipos de productos, como electrónicos, ropa y alimentos. Necesitas organizar toda esta información de manera que puedas buscar rápidamente productos, hacer cálculos de precios, encontrar inventario y mucho más.
 
@@ -57,6 +58,8 @@ docker-compose up -d
 ---
 
 ### 2. Base de Datos Orientada a Objetos (como una colección de juguetes)
+<img src="[https://static.vecteezy.com/system/resources/previews/029/345/981/non_2x/database-icon-data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png](https://w7.pngwing.com/pngs/715/843/png-transparent-toy-graphy-illustration-toys-daquan-child-baby-photography-thumbnail.png)" alt="Descripción de la imagen" width="300"/>
+
 
 **Contexto**: Imagina que eres un coleccionista de juguetes muy detallista, y tienes juguetes de diferentes tipos. Algunos juguetes tienen múltiples partes móviles, otros pueden "interactuar" entre sí o tener características complejas, como luces y sonidos.
 
